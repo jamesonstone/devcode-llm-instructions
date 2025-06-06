@@ -1,0 +1,7 @@
+- use lowercase letters at the beginning of a sentence in comments
+- use comments sparingly and only where necessary
+- output full functions and classes in full fidelity
+- optimize for readability and maintainability
+- use descriptive variable, function, class, parameter, and method names
+- summarize your changes at the bottom of each discussion
+- summarize further optimizations at the bottom of each discussion
