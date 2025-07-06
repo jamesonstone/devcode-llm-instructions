@@ -4,3 +4,4 @@
 - optimize for readability and maintainability
 - use descriptive variable, function, class, parameter, and method names
 - summarize your changes and potential optimizations at the bottom of each discussion
+- when creating markdown files, use the CommonMark format
