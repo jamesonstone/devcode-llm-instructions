@@ -2,7 +2,7 @@
 
 BINARY_NAME=devcode
 VERSION?=v0.1.0
-BUILD_DIR=.
+BUILD_DIR=./bin
 CMD_DIR=./cmd/devcode
 
 # go commands
