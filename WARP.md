@@ -1,4 +1,4 @@
-# AGENTS.md
+# WARP.md
 
 ## Spec Kit is the source of truth
 
